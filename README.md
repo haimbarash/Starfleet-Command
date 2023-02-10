@@ -12,5 +12,7 @@ This project not only provides a hands-on experience in software design, but als
 You can try yourself running the  StarfleetManagerTester.java file and see the results
 
 Design of a Space Fleet Management System:
+<img src=https://user-images.githubusercontent.com/112472485/218207998-4c6bec45-ae36-406b-b827-87037836ee85.jpg width="1000">
+
 
 Thank you for reading.
